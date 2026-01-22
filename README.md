@@ -1,3 +1,9 @@
+
+## What to expect : Sample Video
+
+Video link: https://youtu.be/4hsVJ74wtOA 
+
+
 We wanted to **automate repetitive video editing in DaVinci Resolve**, specifically:
 
 - **We should already have:**
