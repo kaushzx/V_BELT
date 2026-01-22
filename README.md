@@ -1,8 +1,10 @@
 We wanted to **automate repetitive video editing in DaVinci Resolve**, specifically:
 
-- **You already have:**
-    - Audio (voiceover / music)
-    - A JSON file containing: (we will create this ourself)
+- **We should already have:**
+    - Audio (voiceover)
+
+- **We would create:**
+    - A JSON file containing:
         - `start` / `end` timestamps (in seconds)
         - `emotion` labels (28 emotions)
 - **You also have:**
